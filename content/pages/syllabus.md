@@ -42,17 +42,165 @@ The class is graded on a pass / fail basis. A passing grade will be given to stu
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | The effect of age on reproduction in men and women | &nbsp; |
-| 3 | Gonadal stem cells | &nbsp; |
-| 4 | Cryopreservation of human embryos and oocytes | &nbsp; |
-| 5 | Characterization of infertility | &nbsp; |
-| 6 | Sex chromosome constitution and fertility | Midterm Article Topic Selection and Approval |
-| 7 | Embryo culture, assessment, selection and transfer | Midterm Assignment Due |
-| 8 | Visit to Boston area IVF clinic | &nbsp; |
-| 9 | Mouse models with abnormal reproductive phenotypes | &nbsp; |
-| 10 | Seminal fluid–more than just a carrier of sperm | &nbsp; |
-| 11 | Promise and challenges in reprogramming adult cells to gametes | Paper Selection for Final Assignment |
-| 12 | Student paper presentations and discussions |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The effect of age on reproduction in men and women
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Gonadal stem cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Cryopreservation of human embryos and oocytes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Characterization of infertility
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Sex chromosome constitution and fertility
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Article Topic Selection and Approval
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Embryo culture, assessment, selection and transfer
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to Boston area IVF clinic
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Mouse models with abnormal reproductive phenotypes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Seminal fluid–more than just a carrier of sperm
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Promise and challenges in reprogramming adult cells to gametes
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Selection for Final Assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student paper presentations and discussions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
